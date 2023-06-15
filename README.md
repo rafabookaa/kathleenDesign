@@ -4,5 +4,5 @@
 > Status do projeto: Em desenvolvimento
 
 ```
-A ideia inicial é criar um site básico para anunciar no google os serviços de Design
+node app.js
 ```
